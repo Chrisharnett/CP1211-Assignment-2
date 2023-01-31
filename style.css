@@ -1,0 +1,44 @@
+header > ul > li{
+    list-style-type: none;
+    display: inline;
+    padding: 40px;
+}
+header{
+    text-align: center;
+}
+h1, h2 {
+    color: cornflowerblue;
+}
+#our_flock{
+    text-align: justify;
+}
+.flock{
+    background-color: black;
+    padding: 10px;
+}
+.blur_bg { 
+    backdrop-filter: blur(5px);
+}
+dl {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 15px;
+    margin-right: 0;
+  }
+dt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-style: oblique;
+    font-size: xx-large;
+    color: darkgreen;
+    padding: 10px;
+  }
+body {
+    background-image: url('chickengiph.webp');
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+footer {
+    font-size: smaller;
+}
